@@ -1,1 +1,2 @@
 test;
+TailwindCSSのインストールと設定ファイルの作成(s
